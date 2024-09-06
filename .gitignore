@@ -1,0 +1,55 @@
+# Compiled binary files
+*.exe
+*.dll
+*.pdb
+
+# Build directories
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.lock
+*.cache
+*.xml
+*.csproj.user
+*.sln.ide
+
+# DotNet SDK auto-generated files
+.vscode/
+.vs/
+**/.DS_Store
+.vscode/
+
+# Rider IDE files
+.idea/
+
+# Dependency directories
+packages/
+*.nuget
+
+# Backup & Logs
+*.swp
+*.bak
+*.orig
+*.tmp
+*.log
+
+# Publish directory
+publish/
+wwwroot/
+
+# Visual Studio Code directories
+.vscode/
+
+# NCrunch
+.ncrunchsolution
+
+.env
